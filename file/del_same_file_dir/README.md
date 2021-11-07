@@ -1,0 +1,1 @@
+Recursively delete related files/folders in all directories, where test_file can be replaced with the directory or file that needs to be deleted
